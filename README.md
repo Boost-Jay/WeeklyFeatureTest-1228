@@ -12,3 +12,6 @@
    * swiftUI客製化選擇器
 > https://medium.com/@aetheraurelia/custom-selector-in-swiftui-with-animations-17c611e1c287
 
+   * swiftUI載入畫面
+>
+    https://blog.stackademic.com/custom-progressview-in-swiftui-c94f51ba598b

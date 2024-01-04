@@ -66,16 +66,14 @@
 			isa = PBXGroup;
 			children = (
 				7B7782B72B3E5266000B24F5 /* swiftData1229App.swift */,
-				7B7782B92B3E5266000B24F5 /* ContentView.swift */,
 				7B7782BB2B3E5266000B24F5 /* Item.swift */,
-				7B7782C72B3E53D3000B24F5 /* HstackDemo.swift */,
-				7B7782C92B3E544E000B24F5 /* DataModel.swift */,
-				7B7782CB2B3E5C49000B24F5 /* UrlDemoView.swift */,
+				7B7782F72B468630000B24F5 /* SwiftData */,
+				7B7782F62B4685D6000B24F5 /* CustomerSelector */,
+				7B7782F52B4685BC000B24F5 /* CircularLoader */,
+				7B7782F82B468656000B24F5 /* Ios17-Url */,
+				7B7782F92B46867D000B24F5 /* Hstack */,
 				7B7782BD2B3E5268000B24F5 /* Assets.xcassets */,
 				7B7782BF2B3E5268000B24F5 /* Preview Content */,
-				7B7782CF2B3E9EC2000B24F5 /* AnimationMode.swift */,
-				7B7782D32B3EE098000B24F5 /* CircularLoaderView.swift */,
-				7B7782D12B3E9EEC000B24F5 /* AnimationsView.swift */,
 			);
 			path = swiftData1229;
 			sourceTree = "<group>";
@@ -86,6 +84,48 @@
 				7B7782C02B3E5268000B24F5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		7B7782F52B4685BC000B24F5 /* CircularLoader */ = {
+			isa = PBXGroup;
+			children = (
+				7B7782D32B3EE098000B24F5 /* CircularLoaderView.swift */,
+			);
+			path = CircularLoader;
+			sourceTree = "<group>";
+		};
+		7B7782F62B4685D6000B24F5 /* CustomerSelector */ = {
+			isa = PBXGroup;
+			children = (
+				7B7782CF2B3E9EC2000B24F5 /* AnimationMode.swift */,
+				7B7782D12B3E9EEC000B24F5 /* AnimationsView.swift */,
+			);
+			path = CustomerSelector;
+			sourceTree = "<group>";
+		};
+		7B7782F72B468630000B24F5 /* SwiftData */ = {
+			isa = PBXGroup;
+			children = (
+				7B7782B92B3E5266000B24F5 /* ContentView.swift */,
+				7B7782C92B3E544E000B24F5 /* DataModel.swift */,
+			);
+			path = SwiftData;
+			sourceTree = "<group>";
+		};
+		7B7782F82B468656000B24F5 /* Ios17-Url */ = {
+			isa = PBXGroup;
+			children = (
+				7B7782CB2B3E5C49000B24F5 /* UrlDemoView.swift */,
+			);
+			path = "Ios17-Url";
+			sourceTree = "<group>";
+		};
+		7B7782F92B46867D000B24F5 /* Hstack */ = {
+			isa = PBXGroup;
+			children = (
+				7B7782C72B3E53D3000B24F5 /* HstackDemo.swift */,
+			);
+			path = Hstack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
